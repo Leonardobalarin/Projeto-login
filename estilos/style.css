@@ -33,7 +33,6 @@ section#login{
     height: 500px;
     border-radius:20px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.452);
-   
 }
 section#login > div#imagem{
     background:#5f2c82 url(../Imagens/pexels-sean-whang-804269\ \(1\).jpg) no-repeat;
